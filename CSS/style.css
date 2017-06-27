@@ -1,0 +1,14 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 18px;
+    background-image: url(http://pre12.deviantart.net/e6e0/th/pre/f/2008/271/4/d/4d7cd7665eb01e9cb0aafbada9c5429e.jpg);
+    background-position: fixed;
+    position: absolute;
+    width: 100%;
+    text-align: left;
+    padding: 0;
+    margin-top: 10%;
+    }
+h3{
+    color: #FF4500;
+}
